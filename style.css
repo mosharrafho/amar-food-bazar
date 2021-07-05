@@ -1,3 +1,31 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 60px;
+    color: rgb(82, 76, 76);
+
+}
+.oreng{
+    color: orange;
+}
+.flexible{
+    display: flex;
+}
+.half-width{
+
+    width: 50%;
+
+
+
+}
+.link-button{
+text-decoration: none;
+background-image: linear-gradient(red, yellow);
+padding: 10px 15px;
+border-radius: 25px;
+color: rgb(3, 0, 15);
+font-size: 25px;
+}  
+   
+    
