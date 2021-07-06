@@ -117,11 +117,12 @@ border-radius: 10px;
   #example1 {
     border: 1px solid;
     padding: 10px;
-    box-shadow: 5px 10px 8px #888888;
+    box-shadow: 5px 10px 8px #797575;
     margin: 50px;
-    padding: 50px;
-
-
+    padding: 20px;
+    border-radius: 30px;
+text-align: center;
+border-color: coral;
 
     
    
@@ -132,8 +133,10 @@ footer{
 
   text-align: center;
   background-color: rgb(133, 130, 130);
-text-align: top 10px;
-  padding-top: 100px;}
+text-align: top 100px;
+  padding-top: 159px;
+margin: 0%;
+}
   
   
 
@@ -141,6 +144,7 @@ text-align: top 10px;
 .color-tow{
 
   color: chocolate;
+  
 }
 
 
