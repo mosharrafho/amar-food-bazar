@@ -114,5 +114,35 @@ border-radius: 10px;
   }
   
 
+  #example1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+    margin: 50px;
+    padding: 50px;
+
+
+
+    
+   
+  }
+   
+  
+footer{
+
+  text-align: center;
+  background-color: rgb(133, 130, 130);
+text-align: top 10px;
+  padding-top: 100px;}
+  
+  
+
+
+.color-tow{
+
+  color: chocolate;
+}
+
+
   
  
